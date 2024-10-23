@@ -1,4 +1,4 @@
-# Chef
+# Chef project
 
 ## Introduction
 
@@ -14,8 +14,6 @@ Chef Project is Code Deploy tool for Dev useing Jenking API to connect with it.
 Server Taipy 5000
 Server Jenkins 8080
 
-
 ```
-
 
 ### Setup
