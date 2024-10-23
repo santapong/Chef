@@ -1,4 +1,11 @@
+# env 
+.env
 .venv
 .python-version
+.taipy
+
+# python process
 *__pycache__
+
+# files ignore
 /example
