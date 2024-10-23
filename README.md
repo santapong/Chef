@@ -6,12 +6,11 @@ Chef Project is Code Deploy tool for Dev useing Jenking API to connect with it.
 
 ## Documents
 
-1. Jenkinsapi python
-![alt text](imgs/Jenkins.png)
+1. `Jenkinsapi python`_
+2. `Taipy python` _ 
 
-2. Taipy python
-![alt text](imgs/Taipy.png)
-
+.. _`Jenkinapi python`: https://jenkinsapi.readthedocs.io/en/latest/
+.. _`Taipy python` : https://taipy.io/
 
 ### Server
 ```ruby
